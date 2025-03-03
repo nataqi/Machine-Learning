@@ -1,7 +1,7 @@
 # Machine-Learning
-Classification 
-\n Clastering
-Evaluation
-Neural Networks
+Classification   
+Clastering  
+Evaluation  
+Neural Networks  
 NLP
 
