@@ -1,5 +1,7 @@
 # Machine-Learning
 Classification 
+Clastering
 Evaluation
-Implementation
+Neural Networks
+NLP
 
