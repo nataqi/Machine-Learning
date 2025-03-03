@@ -1,6 +1,6 @@
 # Machine-Learning
 Classification   
-Clastering  
+Clustering  
 Evaluation  
 Neural Networks  
 NLP
