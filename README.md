@@ -1,8 +1,9 @@
 # Machine Learning
 
-This repository contains educational assignments from a Master's in AI program.
+This repository contains educational assignments 
 
 ## Topics Covered
+- Data Exploration and Dimensionality Reduction
 - Classification
 - Clustering
 - Evaluation
